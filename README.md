@@ -1,2 +1,2 @@
 # henry
-aprender a crear repositorios desde github
+peneman ya cree un repositorio siuu
